@@ -1,2 +1,2 @@
-# Student-management-system
+#Dairy-management-system
 Using C++
